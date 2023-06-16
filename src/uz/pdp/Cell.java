@@ -44,7 +44,7 @@ public class Cell {
     @Override
     public String toString() {
         return "Cell{" +
-                "car=" + car +
+                "car  " + car +
                 ", cellId='" + cellId + '\'' +
                 ", sign='" + sign + '\'' +
                 '}';
